@@ -1,0 +1,24 @@
+{
+    "1.0.0": [
+        {
+            "minecraft": "1.5.2"
+        },
+        {
+            "mods": [
+                "http://repo.machinetek.info/mods/get/FMLModRepo/mod_Buildcraft/3.3.04",
+                "http://repo.machinetek.info/mods/get/FMLModRepo/mod_EE3/pre1g"
+            ]
+        }
+    ],
+    "1.1.0": [
+        {
+            "minecraft": "1.5.2"
+        },
+        {
+            "mods": [
+                "http://repo.machinetek.info/mods/get/FMLModRepo/mod_Buildcraft/3.3.06",
+                "http://repo.machinetek.info/mods/get/FMLModRepo/mod_EE3/pre1g"
+            ]
+        }
+    ]
+}
