@@ -1,14 +1,14 @@
 {
-  "display_name": "MachineTek", 
-  "name": "machinetek", 
-  "url": null, 
-  "logo_md5": "c8ed826e7dfd3c9dcd1e7cdf8d311e04", 
-  "icon_md5": "bbcd75b431d2ef26e9e0852ab3a6b6cb", 
-  "recommended": "1.1.0", 
-  "latest": "1.1.0", 
   "background_md5": "7fdac69b6a5fca69aba9533ae22d4a62", 
   "builds": [
     "1.0.0", 
     "1.1.0"
-  ]
+  ],
+  "display_name": "MachineTek", 
+  "icon_md5": "bbcd75b431d2ef26e9e0852ab3a6b6cb", 
+  "logo_md5": "c8ed826e7dfd3c9dcd1e7cdf8d311e04", 
+  "latest": "1.1.0", 
+  "name": "machinetek",
+  "recommended": "1.1.0",  
+  "url": null, 
 }
