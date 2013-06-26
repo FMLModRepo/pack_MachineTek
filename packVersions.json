@@ -5,8 +5,8 @@
         },
         {
             "mods": [
-                "http://repo.machinetek.info/mods/get/FMLModRepo/mod_Buildcraft/3.3.04",
-                "http://repo.machinetek.info/mods/get/FMLModRepo/mod_EE3/pre1g"
+                "FMLModRepo/mod_Buildcraft/3.3.04",
+                "FMLModRepo/mod_EE3/pre1g"
             ]
         }
     ],
@@ -16,8 +16,8 @@
         },
         {
             "mods": [
-                "http://repo.machinetek.info/mods/get/FMLModRepo/mod_Buildcraft/3.3.06",
-                "http://repo.machinetek.info/mods/get/FMLModRepo/mod_EE3/pre1g"
+                "FMLModRepo/mod_Buildcraft/3.3.06",
+                "FMLModRepo/mod_EE3/pre1g"
             ]
         }
     ]
